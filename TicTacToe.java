@@ -16,7 +16,6 @@ public class TicTacToe {
     //TODO 1.REPLACE WIN CONDITION CHECK WITH LOOPS.
     //TODO 2.TRY TO REWRITE LOGIC OF WINNING FOR 5 BY 5 FIELD.
     //TODO 3.TRY TO REWRITE COMPUTER'S BEHAVIOR, SO IT MIGHT BLOCK YOUR MOVES.
-    //COMMENT
     public static void main(String[] args) {
         initMap();
         printMap();
